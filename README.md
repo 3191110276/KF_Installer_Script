@@ -1,2 +1,2 @@
-# KF_Installer_Script
+# KF Installer Script
 Script to install Kubeflow on a Kubernetes cluster
