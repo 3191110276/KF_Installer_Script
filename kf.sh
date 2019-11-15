@@ -36,7 +36,7 @@ if SYSTEM="MAC"
 then
 curl -L https://github.com/kubeflow/kubeflow/releases/download/v0.5.1/kfctl_v0.5.1_darwin.tar.gz > kfctl.tar.gz
 else
-curl -L lttps://github.com/kubeflow/kubeflow/releases/download/v0.5.1/kfctl_v0.5.1_linux.tar.giz > kfctl.tar.gz
+curl -L https://github.com/kubeflow/kubeflow/releases/download/v0.5.1/kfctl_v0.5.1_linux.tar.gz > kfctl.tar.gz
 fi
 
 tar xf kfctl.tar.gz
